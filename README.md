@@ -3,6 +3,5 @@ This repository contains a collection of my projects as a game developer for eas
 
 Here are my recent game projects:
 
-## Six Feet Under
+## Unburied Knight
 3D Topdown Action-Dungeon Crawler:
-https://github.com/JZStorm/Six-Feet-Under
