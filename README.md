@@ -4,5 +4,5 @@ This repository contains a collection of my projects as a game developer for eas
 Here are my recent game projects:
 
 ## Unburied Knight
-3D Topdown Action-Dungeon Crawler:
+3D Action-Dungeon Crawler:
 https://github.com/JZStorm/Unburied-Knight
